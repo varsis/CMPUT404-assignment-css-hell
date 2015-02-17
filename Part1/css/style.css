@@ -1,0 +1,125 @@
+/* Set the font family for all elements */
+
+* {
+		font-family: sans-serif, Geneva, "Helvetica Neue", Helvetica, Arial;
+	color: #815b2f;
+
+}
+
+body  {
+	background-color: moccasin;
+	margin: 4em;
+	display: block;
+}
+
+pre, .pre {
+	font-size: 1em;
+	font-style: italic;
+	border-top: 0.2em dashed white;
+	border-bottom: 0.2em dashed white;
+	margin: 0;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+hr.doublepage {
+	height: .1em;
+}
+
+blockquote {
+	background-color: white;
+	margin: 0;
+	padding:  4em;
+	border-radius: 2em;
+}
+
+.mynote {
+	margin: 0;
+	padding:  4em;
+	border-radius: 2em;
+}
+
+img {
+	border-radius: 2em;
+	margin-top: .8em;
+	margin-bottom: .8em;
+}
+
+.tei .tei-head {
+	font-weight: bold;
+}
+
+table.title {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.tei {
+	line-height: 1.4em;
+}
+
+.tei-pb, .pagenum {
+	font-weight: bold;
+	font-size: 1.1em;
+	position: absolute;
+	left: 1%;
+	width: 8%;
+	text-align: left;
+}
+
+p, .tei-p {
+	font-size: 1.1em;
+	line-height: 1.5em;
+	margin: 1em 4em;
+}
+
+.dropcap {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	padding-right: .2em;
+}
+
+hr.chap {
+	width: 100%;
+	margin: 2em 0;
+}
+
+/* @group Headers */
+
+h1 {
+  margin: .67em 0;
+  font-size: 2em;
+	font-variant: small-caps;
+	font-style: italic;
+}
+
+h2 {
+  margin: .60em 0;
+  font-size: 1.8em;
+	font-variant: small-caps;
+	font-style: italic;
+}
+
+h3 {
+  margin: .52em 0;
+  font-size: 1.6em;
+	font-variant: small-caps;
+	font-style: italic;
+}
+
+h4 {
+  margin: .46em 0;
+  font-size: 1.4em;
+	font-variant: small-caps;
+	font-style: italic;
+}
+
+h5 {
+  margin: .39em 0;
+  font-size: 1.3em;
+	font-variant: small-caps;
+	font-style: italic;
+}
+
+
+
+/* @end */
