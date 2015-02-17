@@ -21,4 +21,13 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Modified by Chris Pavlicek
+
+Part 1
+======
+
+Each gutenberg html file was only changed to include the css link. Everything else has remained intact.
+
+See Part1/css/style.css for styles applied
+
 

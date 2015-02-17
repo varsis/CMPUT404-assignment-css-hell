@@ -1,7 +1,7 @@
 /* Set the font family for all elements */
 
 * {
-		font-family: sans-serif, Geneva, "Helvetica Neue", Helvetica, Arial;
+		font-family: Georgia, "Times New Roman", Times, serif;
 	color: #815b2f;
 
 }
@@ -20,10 +20,6 @@ pre, .pre {
 	margin: 0;
 	padding-top: 2em;
 	padding-bottom: 2em;
-}
-
-hr.doublepage {
-	height: .1em;
 }
 
 blockquote {
@@ -78,9 +74,12 @@ p, .tei-p {
 	padding-right: .2em;
 }
 
-hr.chap {
+hr.chap, hr.doublepage, hr {
 	width: 100%;
 	margin: 2em 0;
+	background-color: #815b2a;
+	height: .4em;
+	border-radius: 2em;
 }
 
 /* @group Headers */
