@@ -30,4 +30,13 @@ Each gutenberg html file was only changed to include the css link. Everything el
 
 See Part1/css/style.css for styles applied
 
+Part 2
+======
+
+Inspiration from: http://theoatmeal.com/comics/design_hell
+
+Some CSS borrowed Bootstrap (Navigation) and use W3C Documentation for reference.
+
+Navigation links using ids.
+
 
